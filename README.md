@@ -14,7 +14,7 @@
 - [OtakuRealm](https://github.com/gauravRathod674/otakurealm) – Anime Streaming & Manga Platform  
 - [LibraAI](https://github.com/gauravRathod674/libraai) – AI-Powered Digital Library  
 - [TrackMate](https://github.com/gauravRathod674/trackmate) – E-commerce Price Tracker  
-- [Super Customizable ChatBot](https://github.com/gauravRathod674/super-customizable-chatbot)  
+- [Super Customizable ChatBot](https://github.com/gauravRathod674/custom-chatbot)  
 
 ---
 
