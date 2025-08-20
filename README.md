@@ -87,45 +87,80 @@ I am driven by challenging problems and thrive in environments where I can lever
 ---
 
 ## 🚀 Featured Projects
+
 *Note: Some projects were developed for academic purposes and may not have live demos. Please feel free to explore the source code.*
 
+---
+
 ### 💬 Super Customizable React ChatBot (NPM Package)
+
 An open-source React component that provides a highly flexible chatbot interface supporting major AI models like Gemini, OpenAI, and Claude.
+
 - **Impact**: Achieved **3,500+ downloads and 1,700+ weekly installs** in just 23 days, demonstrating significant developer interest.
 - **Features**: Includes typing animations, speech-to-text, file uploads, and full markdown rendering.
 - **Tech**: `React`, `NPM`, `OpenAI API`, `Gemini API`
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1Jfk7754YKpXGdv7dn8gv-ExwIyrKe8H8" alt="Super Customizable React ChatBot Demo" width="600"/>
+</p>
+
 <div>
-  <a href="https://www.npmjs.com/package/super-customizable-react-chatbot"><strong>🔗 View on NPM</strong></a>
+  <a href="https://www.npmjs.com/package/super-customizable-react-chatbot"><strong>🔗 View on NPM</strong></a> • 
+  <a href="https://github.com/gauravRathod674/custom-chatbot"><strong>Source Code</strong></a>
 </div>
 
 ---
+
 ### 🎭 OtakuRealm - Anime & Manga Platform
+
 Engineered an integrated platform to solve the problem of content fragmentation for anime and manga fans.
+
 - **Impact**: Increased user engagement by **75%** with a custom AI chatbot and reduced API latency by **40%** through a multi-threaded web scraping engine.
 - **Features**: JWT authentication, watch history, personalized recommendations, and a Progressive Web App (PWA) version.
 - **Tech**: `Next.js`, `Django-Ninja`, `Rasa`, `Hugging Face`, `MySQL`
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1_ZemlpnFwcYAH_aLBxDQafYV4HQL9Jgt" alt="OtakuRealm Demo" width="600"/>
+</p>
+
 <div>
-  <a href="#"><strong>Live Demo</strong></a> • <a href="#"><strong>Source Code</strong></a>
+  <a href="https://github.com/gauravRathod674/OtakuRealm"><strong>Source Code</strong></a>
 </div>
 
 ---
+
 ### 📚 LibraAI - Smart AI Digital Library
+
 Architected a scalable, AI-driven digital library to address challenges like metadata duplication and access violations in academic settings.
+
 - **Impact**: Boosted reading comprehension by **30%** with AI features and expanded content coverage by **65%** by automating the retrieval of over 200M academic papers.
 - **Features**: Applied 14+ software design patterns (e.g., Singleton, Observer, Command), role-based access control, and AI-powered summarization, translation, and Q&A.
 - **Tech**: `Next.js`, `Django-Ninja`, `Celery`, `MySQL`
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1Ug_tTAxMfNJjF97h_tR01nPqcR8gaI0C" alt="LibraAI Demo" width="600"/>
+</p>
+
 <div>
-  <a href="#"><strong>Live Demo</strong></a> • <a href="#"><strong>Source Code</strong></a>
+  <a href="https://github.com/gauravRathod674/LibraAI"><strong>Source Code</strong></a>
 </div>
 
 ---
+
 ### 🛒 TrackMate - E-commerce Price Tracker
+
 Developed a platform to help users track and compare product prices across multiple e-commerce sites in real-time.
+
 - **Impact**: Accelerated product search speed by **50%** and increased user re-engagement by **40%** through automated price alert emails.
 - **Features**: Multi-threaded scraping with Selenium & BeautifulSoup, intelligent caching, and background task scheduling with Celery.
 - **Tech**: `Django`, `Celery`, `Selenium`, `MySQL`
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1tvzFe5LkH9YKXq88GHqNWLk0MqXUVL0A" alt="TrackMate Demo" width="600"/>
+</p>
+
 <div>
-  <a href="#"><strong>Live Demo</strong></a> • <a href="#"><strong>Source Code</strong></a>
+  <a href="https://github.com/gauravRathod674/trackMate"><strong>Source Code</strong></a>
 </div>
 
 ---
