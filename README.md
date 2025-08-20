@@ -96,7 +96,7 @@ An open-source React component that provides a highly flexible chatbot interface
 
 🔹 **Impact**: Achieved **3,500+ downloads** and **1,700+ weekly installs** in just 23 days, demonstrating strong developer adoption.  
 🔹 **Features**: Typing animations, speech-to-text, file uploads, and full markdown rendering.  
-🔹 **Tech Stack**: `React`, `NPM`, `OpenAI API`, `Gemini API`  
+🔹 **Tech Stack**: `React`, `NPM`, `OpenAI API`, `Gemini API`, `Anthropic API`, `Groq API`
 
 📌 **Quick Links**  
 - 📦 [NPM Package](https://www.npmjs.com/package/super-customizable-react-chatbot)  
@@ -115,7 +115,7 @@ Engineered an integrated platform to solve the problem of content fragmentation 
 
 🔹 **Impact**: Increased user engagement by **75%** with a custom AI chatbot and reduced API latency by **40%** through a multi-threaded web scraping engine.  
 🔹 **Features**: JWT authentication, watch history, personalized recommendations, and a Progressive Web App (PWA) version.  
-🔹 **Tech Stack**: `Next.js`, `Django-Ninja`, `Rasa`, `Hugging Face`, `MySQL`  
+🔹 **Tech Stack**: `Next.js`, `Django-Ninja`, `Rasa`, `Hugging Face`, `MySQL`,  `Selenium`, `BeatifulSoup`
 
 📌 **Quick Links**  
 - 💻 [Source Code](https://github.com/gauravRathod674/OtakuRealm)  
@@ -132,7 +132,7 @@ Architected a scalable, AI-driven digital library to address challenges like met
 
 🔹 **Impact**: Boosted reading comprehension by **30%** with AI features and expanded content coverage by **65%** by automating the retrieval of over 200M academic papers.  
 🔹 **Features**: Applied 14+ software design patterns (e.g., Singleton, Observer, Command), role-based access control, and AI-powered summarization, translation, and Q&A.  
-🔹 **Tech Stack**: `Next.js`, `Django-Ninja`, `Celery`, `MySQL`  
+🔹 **Tech Stack**: `Next.js`, `Django-Ninja`, `MySQL`, `Google Gemini API`, `Google Translate API`, `Google TTS`, `Selenium`, `BeatifulSoup`
 
 📌 **Quick Links**  
 - 💻 [Source Code](https://github.com/gauravRathod674/LibraAI)  
@@ -149,7 +149,7 @@ Developed a platform to help users track and compare product prices across multi
 
 🔹 **Impact**: Accelerated product search speed by **50%** and increased user re-engagement by **40%** through automated price alert emails.  
 🔹 **Features**: Multi-threaded scraping with Selenium & BeautifulSoup, intelligent caching, and background task scheduling with Celery.  
-🔹 **Tech Stack**: `Django`, `Celery`, `Selenium`, `MySQL`  
+🔹 **Tech Stack**: `Django`, `Celery`, `BeatifulSoup`, `Selenium`, `MySQL`  
 
 📌 **Quick Links**  
 - 💻 [Source Code](https://github.com/gauravRathod674/trackMate)  
