@@ -1,20 +1,20 @@
 <p align="center">
-  <a href="https://github.com/gauravRod674">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A388EE&center=true&vCenter=true&width=600&lines=Hello,+I'm+Gaurav+Rathod;🚀+Full+Stack+Developer;🤖+AI/ML+Enthusiast;🌍+Open+Source+Contributor" alt="Typing SVG" />
-  </a>
+  <a href="https://github.com/gauravRthod674">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A388EE&center=true&vCenter=true&width=600&lines=Hello,+I'm+Gaurav+Rathod;🚀+Full+Stack+Developer;🤖+AI/ML+Enthusiast;🌍+Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gaurav-rathod-7a6087317/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:rathodgaurav753@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="https://www.linkedin.com/in/gaurav-rathod-7a6087317/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:rathodgaurav753@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=gauravRathod674&label=Profile%20Views&color=A388EE&style=flat-square" alt="Profile Views"/>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=gauravRathod674&label=Profile%20Views&color=A388EE&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
@@ -34,54 +34,54 @@ I am driven by challenging problems and thrive in environments where I can lever
 
 ## 🛠️ My Tech Stack
 
-### 💡 Languages  
+### 💡 Languages  
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-### 🎨 Frontend  
+### 🎨 Frontend  
 <p>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
-### ⚙️ Backend & Frameworks  
+### ⚙️ Backend & Frameworks  
 <p>
-  <img alt="Django-Ninja" src="https://img.shields.io/badge/Django%20Ninja-0C1021?style=for-the-badge&logo=django&logoColor=white">
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img alt="Celery" src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white">
+  <img alt="Django-Ninja" src="https://img.shields.io/badge/Django%20Ninja-0C1021?style=for-the-badge&logo=django&logoColor=white">
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img alt="Celery" src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white">
 </p>
 
-### 🗄️ Databases  
+### 🗄️ Databases  
 <p>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
-### 🤖 AI / ML  
+### 🤖 AI / ML  
 <p>
-  <img alt="Rasa" src="https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white">
-  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black">
+  <img alt="Rasa" src="https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white">
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black">
 </p>
 
-### 🛠️ Tools  
+### 🛠️ Tools  
 <p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
 ---
@@ -101,12 +101,12 @@ An open-source React component that provides a highly flexible chatbot interface
 - **Tech**: `React`, `NPM`, `OpenAI API`, `Gemini API`
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1Jfk7754YKpXGdv7dn8gv-ExwIyrKe8H8" alt="Super Customizable React ChatBot Demo" width="600"/>
+  <img src="https://raw.githubusercontent.com/gauravRathod674/gauravRathod674/main/Super-Customizable-Chatbot_Demo_Image.png" alt="Super Customizable React ChatBot Demo" width="600"/>
 </p>
 
 <div>
-  <a href="https://www.npmjs.com/package/super-customizable-react-chatbot"><strong>🔗 View on NPM</strong></a> • 
-  <a href="https://github.com/gauravRathod674/custom-chatbot"><strong>Source Code</strong></a>
+  <a href="https://www.npmjs.com/package/super-customizable-react-chatbot"><strong>🔗 View on NPM</strong></a> • 
+  <a href="https://github.com/gauravRathod674/custom-chatbot"><strong>Source Code</strong></a>
 </div>
 
 ---
@@ -120,11 +120,11 @@ Engineered an integrated platform to solve the problem of content fragmentation 
 - **Tech**: `Next.js`, `Django-Ninja`, `Rasa`, `Hugging Face`, `MySQL`
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1_ZemlpnFwcYAH_aLBxDQafYV4HQL9Jgt" alt="OtakuRealm Demo" width="600"/>
+  <img src="https://raw.githubusercontent.com/gauravRathod674/gauravRathod674/main/OtakuRealm_Demo_Image.png" alt="OtakuRealm Demo" width="600"/>
 </p>
 
 <div>
-  <a href="https://github.com/gauravRathod674/OtakuRealm"><strong>Source Code</strong></a>
+  <a href="https://github.com/gauravRathod674/OtakuRealm"><strong>Source Code</strong></a>
 </div>
 
 ---
@@ -138,11 +138,11 @@ Architected a scalable, AI-driven digital library to address challenges like met
 - **Tech**: `Next.js`, `Django-Ninja`, `Celery`, `MySQL`
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1Ug_tTAxMfNJjF97h_tR01nPqcR8gaI0C" alt="LibraAI Demo" width="600"/>
+  <img src="https://raw.githubusercontent.com/gauravRathod674/gauravRathod674/main/LibraAI_Demo_Image.png" alt="LibraAI Demo" width="600"/>
 </p>
 
 <div>
-  <a href="https://github.com/gauravRathod674/LibraAI"><strong>Source Code</strong></a>
+  <a href="https://github.com/gauravRathod674/LibraAI"><strong>Source Code</strong></a>
 </div>
 
 ---
@@ -156,32 +156,32 @@ Developed a platform to help users track and compare product prices across multi
 - **Tech**: `Django`, `Celery`, `Selenium`, `MySQL`
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1tvzFe5LkH9YKXq88GHqNWLk0MqXUVL0A" alt="TrackMate Demo" width="600"/>
+  <img src="https://raw.githubusercontent.com/gauravRathod674/gauravRathod674/main/TrackMate_Demo_Image.png" alt="TrackMate Demo" width="600"/>
 </p>
 
 <div>
-  <a href="https://github.com/gauravRathod674/trackMate"><strong>Source Code</strong></a>
+  <a href="https://github.com/gauravRathod674/trackMate"><strong>Source Code</strong></a>
 </div>
 
 ---
 
-## 📊 My GitHub Stats  
+## 📊 My GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravRathod674&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravRathod674&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravRathod674&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravRathod674&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gauravRathod674&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gauravRathod674&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gauravRathod674&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gauravRathod674&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
