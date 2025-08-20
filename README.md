@@ -95,7 +95,7 @@ An open-source React component that provides a highly flexible chatbot interface
 </p>  
 
 🔹 **Impact**: Achieved **3,700+ downloads** and **1,800+ weekly installs** in just 24 days, demonstrating strong developer adoption.  
-🔹 **Features**: Typing animations, speech-to-text, file uploads, and full markdown rendering.  
+🔹 **Features**: Multi-API Support, Custom Instructions, Deeply Customizable, Typing animations, speech-to-text, file uploads, and full markdown rendering, Flexible Placement  
 🔹 **Tech Stack**: `React`, `NPM`, `OpenAI API`, `Gemini API`, `Anthropic API`, `Groq API`
 
 📌 **Quick Links**  
@@ -114,7 +114,7 @@ Engineered an integrated platform to solve the problem of content fragmentation 
 </p>  
 
 🔹 **Impact**: Increased user engagement by **75%** with a custom AI chatbot and reduced API latency by **40%** through a multi-threaded web scraping engine.  
-🔹 **Features**: JWT authentication, watch history, personalized recommendations, and a Progressive Web App (PWA) version.  
+🔹 **Features**: JWT authentication, watch history, personalized recommendations, continue reading, chatbot.  
 🔹 **Tech Stack**: `Next.js`, `Django-Ninja`, `Rasa`, `Hugging Face`, `MySQL`,  `Selenium`, `BeatifulSoup`
 
 📌 **Quick Links**  
