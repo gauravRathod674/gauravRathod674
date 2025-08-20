@@ -1,20 +1,18 @@
 <p align="center">
-  <a href="https://github.com/gauravRthod674">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A388EE&center=true&vCenter=true&width=600&lines=Hello,+I'm+Gaurav+Rathod;🚀+Full+Stack+Developer;🤖+AI/ML+Enthusiast;🌍+Open+Source+Contributor" alt="Typing SVG" />
-  </a>
+  <a href="https://github.com/gauravRthod674"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A388EE&center=true&vCenter=true&width=600&lines=Hello,+I'm+Gaurav+Rathod;🚀+Full+Stack+Developer;🤖+AI/ML+Enthusiast;🌍+Open+Source+Contributor" alt="Typing SVG" /></a>
+</p>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-rathod-7a6087317/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;&nbsp; <a href="mailto:rathodgaurav753@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gaurav-rathod-7a6087317/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:rathodgaurav753@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=gauravRathod674&label=Profile%20Views&color=A388EE&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=gauravRathod674&label=Profile%20Views&color=A388EE&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
