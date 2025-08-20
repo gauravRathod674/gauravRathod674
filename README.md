@@ -95,7 +95,7 @@ An open-source React component that provides a highly flexible chatbot interface
 </p>  
 
 🔹 **Impact**: Achieved **3,700+ downloads** and **1,800+ weekly installs** in just 24 days, demonstrating strong developer adoption.  
-🔹 **Features**: Multi-API Support, Custom Instructions, Deeply Customizable, Typing animations, speech-to-text, file uploads, and full markdown rendering, Flexible Placement  
+🔹 **Features**: Multi-API Support, Custom Instructions, Deeply Customizable, Typing animations, speech-to-text, file uploads, and full markdown rendering, Flexible Placement.  
 🔹 **Tech Stack**: `React`, `NPM`, `OpenAI API`, `Gemini API`, `Anthropic API`, `Groq API`
 
 📌 **Quick Links**  
