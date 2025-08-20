@@ -22,7 +22,7 @@
 I am a results-driven developer and software architect currently pursuing a Master's in IT at the Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT). My passion lies in engineering scalable, high-performance digital solutions that bridge the gap between complex backend logic and intuitive user experiences. I specialize in full-stack development, with a keen interest in applying AI/ML to create smarter, more responsive applications.
 
 My work is defined by a commitment to excellence and a drive to create meaningful impact. This is demonstrated through:
-- **Open-Source Success**: Authored an NPM package that was rapidly adopted by the developer community, achieving over **3,500 installs within 23 days** of its launch.
+- **Open-Source Success**: Authored an NPM package that was rapidly adopted by the developer community, achieving over **3,700+ installs within 24 days** of its launch.
 - **Proven Leadership**: Successfully led development for multiple academic projects, including OtakuRealm and LibraAI, from conception to deployment, ensuring scalability and timely delivery.
 - **Academic Achievement**: Consistently ranked among the top performers in my graduate and undergraduate programs, including securing a top-5 rank at DA-IICT.
 
