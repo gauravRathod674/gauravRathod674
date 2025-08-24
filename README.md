@@ -91,7 +91,7 @@ I am driven by challenging problems and thrive in environments where I can lever
 An open-source React component that provides a highly flexible chatbot interface supporting major AI models like **Gemini**, **OpenAI**, and **Claude**.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gauravRathod674/gauravRathod674/main/Super-Customizable-Chatbot_Demo_Image.png" alt="Super Customizable React ChatBot Demo" width="600"/>
+  <img src="https://raw.githubusercontent.com/gauravRathod674/gauravRathod674/main/demo_chatbot.png" alt="Super Customizable React ChatBot Demo" width="600"/>
 </p>  
 
 🔹 **Impact**: Achieved **5,000+ downloads** and **1,800+ weekly installs** within month, demonstrating strong developer adoption.  
