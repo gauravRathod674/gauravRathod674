@@ -22,7 +22,7 @@
 I am a results-driven developer and software architect currently pursuing a Master's in IT at the Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT). My passion lies in engineering scalable, high-performance digital solutions that bridge the gap between complex backend logic and intuitive user experiences. I specialize in full-stack development, with a keen interest in applying AI/ML to create smarter, more responsive applications.
 
 My work is defined by a commitment to excellence and a drive to create meaningful impact. This is demonstrated through:
-- **Open-Source Success**: Authored an NPM package that was rapidly adopted by the developer community, achieving over **5,000+ installs within month** of its launch.
+- **Open-Source Success**: Authored an NPM package that was rapidly adopted by the developer community, achieving over **5,000 installs within its first month of launch**.
 - **Proven Leadership**: Successfully led development for multiple academic projects, including OtakuRealm and LibraAI, from conception to deployment, ensuring scalability and timely delivery.
 - **Academic Achievement**: Consistently ranked among the top performers in my graduate and undergraduate programs, including securing a top-5 rank at DA-IICT.
 
@@ -94,7 +94,7 @@ An open-source React component that provides a highly flexible chatbot interface
   <img src="https://raw.githubusercontent.com/gauravRathod674/gauravRathod674/main/Super-Customizable-Chatbot_Demo_Image.png" alt="Super Customizable React ChatBot Demo" width="600"/>
 </p>  
 
-🔹 **Impact**: Achieved **5,000+ downloads** and **1,800+ weekly installs** in just month, demonstrating strong developer adoption.  
+🔹 **Impact**: Achieved **5,000+ downloads** and **1,800+ weekly installs** within month, demonstrating strong developer adoption.  
 🔹 **Features**: Multi-API Support, Custom Instructions, Deeply Customizable, Typing animations, speech-to-text, file uploads, and full markdown rendering, Flexible Placement.  
 🔹 **Tech Stack**: `React`, `NPM`, `OpenAI API`, `Gemini API`, `Anthropic API`, `Groq API`
 
