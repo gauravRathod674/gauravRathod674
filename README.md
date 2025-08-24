@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/gauravRthod674"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A388EE&center=true&vCenter=true&width=600&lines=Hello,+I'm+Gaurav+Rathod;🚀+Full+Stack+Developer;🤖+AI/ML+Enthusiast;🌍+Open+Source+Contributor" alt="Typing SVG" /></a>
+  <a href="https://github.com/gauravRthod674"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=70A5FE&center=true&vCenter=true&width=600&lines=Hello,+I'm+Gaurav+Rathod;🚀+Full+Stack+Developer;🤖+AI/ML+Enthusiast;🌍+Open+Source+Contributor" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
