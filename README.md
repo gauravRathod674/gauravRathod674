@@ -178,7 +178,7 @@ Developed a platform to help users track and compare product prices across multi
 ## 💡 My Development Philosophy
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Build%20something%20you%20always%20wanted%20for%20yourself." />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Build%20something%20you%20always%20wanted%20for%20yourself.&author=Gaurav%20Rathod%20(Me)" />
 </div>
 
 This quote is the cornerstone of my approach to software development. I believe the most passionate and innovative work comes from a desire to solve a genuine problem—especially one you've personally experienced. Projects like **OtakuRealm** were born from my own interest in anime, and **LibraAI** from the need for a smarter way to manage academic resources as a student.
