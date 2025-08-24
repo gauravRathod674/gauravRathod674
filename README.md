@@ -185,6 +185,6 @@ This quote is the cornerstone of my approach to software development. I believe 
 
 This philosophy ensures that I am not just a developer, but also the first and most critical user of my applications. It drives me to obsess over details, push for intuitive design, and maintain the highest standards of quality, resulting in products that are not only functional but also a joy to use.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=70A5FE" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=70A5FE" width="100%" />
 
 ---
