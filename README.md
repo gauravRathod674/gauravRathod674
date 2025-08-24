@@ -159,27 +159,27 @@ Developed a platform to help users track and compare product prices across multi
 ## 📊 My GitHub Stats  
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gauravRathod674&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gauravRathod674&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravRathod674&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gauravRathod674&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gauravRathod674&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravRathod674&theme=tokyo-night&hide_border=true" width="90%" alt="Contribution Graph" />
+</div>
 
 ---
 
 ## 💡 My Development Philosophy
 
-> "Build something you always wanted for yourself."
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Build%20something%20you%20always%20wanted%20for%20yourself." />
+</div>
 
 This quote is the cornerstone of my approach to software development. I believe the most passionate and innovative work comes from a desire to solve a genuine problem—especially one you've personally experienced. Projects like **OtakuRealm** were born from my own interest in anime, and **LibraAI** from the need for a smarter way to manage academic resources as a student.
 
